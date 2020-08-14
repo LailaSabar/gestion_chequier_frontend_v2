@@ -1,0 +1,146 @@
+
+.footer{
+    background-color: #343a40;
+
+
+
+margin-top: 1rem;
+padding: 1rem;
+
+position: relative;
+bottom: 0;
+left: 0;
+width: 100%;
+
+}
+
+
+.fontAwesome{ font-family: 'Helvetica', FontAwesome, sans-serif; }
+
+.FormDemand{
+    
+    width: 100%;
+    max-width: 450px;
+    margin: auto;
+
+    margin-bottom: 100px;
+    margin-top: 100px;
+
+    background: #fff;
+    padding: 60px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px 0px #000;
+
+
+ }
+
+ .title{
+     text-align: center;
+     padding-top: 6%;
+     padding-bottom: 12%;
+ }
+
+ .submit{
+
+     margin-top: 2%;
+     text-align:center;
+ }
+
+ ::placeholder {
+    font-size: 0.9em;
+}
+
+.sign-form {
+
+    width: 100%;
+    max-width: 450px;
+    padding: 15px;
+    margin: auto;
+    height: 100%;
+    margin-bottom: 100px;
+    margin-top: 100px;
+
+    
+    background: #fff;
+    padding: 60px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px 0px #000;
+
+    
+
+
+}
+
+.succes{
+    
+    width: 100%;
+    max-width: 450px;
+    padding: 15px;
+    margin: auto;
+    height: 100%;
+    margin-bottom: 100px;
+    margin-top: 100px;
+
+}
+
+.login {
+
+    
+    width: 100%;
+    max-width: 450px;
+    padding: 15px;
+    margin: auto;
+    height: 100%;
+    margin-bottom: 100px;
+    margin-top: 100px;
+
+    
+    background-color: transparent;
+    background: rgba(0, 0, 0, 0.5);
+    padding: 60px;
+    border-radius: 4px;
+
+
+
+}
+
+.login-page{
+    background: url('./background2.jpg') no-repeat;
+    overflow: hidden;
+    background-size: cover;
+    width: 100%;
+    min-height: 100vh;
+
+
+}
+
+.formPage, .signPage, .succesPage{
+    background: url('./background3.jpg') no-repeat;
+    overflow: hidden;
+    background-size: cover;
+    width: 100%;
+    min-height: 100vh;
+
+
+}
+.tableDem {
+
+    margin-top: 100px;
+
+}
+.containerTab{
+    margin-bottom: 100px;
+
+}
+
+.filter{
+    margin-top: 80px;
+}
+
+.homePage{
+    margin-top: 200px;
+    margin-bottom: 260px;
+}
+.homeTitle {
+    text-align: center;
+}
